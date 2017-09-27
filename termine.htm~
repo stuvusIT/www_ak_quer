@@ -1,0 +1,82 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+       "http://www.w3.org/TR/html4/strict.dtd">
+
+<meta http-equiv=content-type content="text/html; charset=UTF-8">
+<html>
+<head>
+<title>quer! - SchwuLesBische Studenten</title>
+<link rel="stylesheet" type="text/css" href="formate.css">
+<meta http-equiv="expires" content="43200">
+</head>
+
+<body>
+<div id="Page">
+	<div id="Seite">
+
+		<div id="Kopfzeile">	
+			<div id="Logo">
+				<a href="index.html" target="_self"><img src="logo.png" style="border:0px"></a>		
+			</div>
+
+			<div id="Navigation">   
+				<div id="Navigationlinks">
+					<a href="uns.html" target="_self">&Uuml;ber Uns</a>
+					<a href="termine.htm" target="_self">Programm</a>
+					<a href="kontakt.htm" target="_self">Kontakt</a>
+					<a href="http://www.faveve.uni-stuttgart.de/" target="_blank">FaVeVe</a>
+				</div>
+			</div> 
+		</div>
+		
+		<div id="Inhalt">
+			<div style="position: absolute; top: 180px;padding-left: 20px;">
+				<h1>Unser aktuelles Programm:</h1>
+				<p>				
+				<h2>Do. 06.11. 19:30 Uhr Filmabend am Campus Stadtmitte</h2>
+				Keplerstr. 17, 10. Stock, Raum M17.98<br>
+				Ihr könnt gerne eigene Filme mitbringen :) <br>
+				Selbstversorger, bitte ggf. Knabberzeugs und Getränke für euch mitnehmen.<br><br>
+				<h2>Fr. 21.11. 21:00 Uhr SEMESTERPARTY</h2><br>
+				<h2>Fr. 05.12. 11:45 Uhr Kuchenaktion am Campus Vaihingen</h2><br>
+				<h2>Do. 18.12. 20:00 Uhr Weihnachtsparty mit Glühwein/Feuerzangenbowle</h2><br>
+				<br>
+				<br>
+				
+				</p>
+<!--				<h1>R&uuml;ckschau:</h1>
+				<br>
+				<br>
+				<img src="flyer13.jpg">			
+				<br>
+				<br>
+				<img src="flyer12.jpg">			
+				<br>
+				<br>		
+				<img src="flyer11.jpg">
+				<br>
+				<br>
+				<img src="flyer10.jpg">
+				<br>
+				<br>
+				<img src="flyer9.png">
+				<br>
+				<br>
+				<img src="flyer8.jpg">
+				<br>
+				<br>			
+				<img src="flyer6.png">
+				<br>
+				<br>	
+				<img src="flyer4.jpg">
+				<br>
+				<br>	
+				<img src="flyer3.png">-->
+				<div id="Impressum">
+					<a href="impressum.htm" target="_self">Impressum</a>
+				</div>
+			</div>
+		</div>		
+	</div>
+</div>
+</body>
+</html>

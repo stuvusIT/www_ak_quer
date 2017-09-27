@@ -1,0 +1,92 @@
+* 			{ font-family:'Arial',sans-serif; font-weight:normal; color:#000000}
+body 		{ margin:0px; padding:0px; background-color:#F0F0F0;text-align: center}
+table 		{ margin:0px; padding:0px; border-width:0px; border:none; border-spacing:0px}
+
+div#Page{	
+	width: 				800px;
+	height:				auto;
+	position:			relative; top:0px;
+	margin:				0 auto;
+	padding: 			0px;
+	padding-top: 		30px;
+	border:		 		none;
+	background-color: 	#F0F0F0;
+	}
+
+div#Seite{
+	text-align: 		left;
+	position:			absolute; top:0px; left:0px;
+	width: 				800px;
+	min-height:			950px;	
+	padding: 			0px;
+	padding-top: 		30px;	
+	border: 			none;
+	background-color: 	#F0F0F0;
+	}
+	
+div#Kopfzeile{
+	text-align: 		left;
+	width: 				800px;
+	min-height:			120px;	
+	padding: 			0px;
+	border: 			none;
+	background-image:	url(bg1.png);
+	}
+		
+div#Logo{
+	float: 				left;
+	width: 				264px;
+	height: 			110px;
+	padding-top:		5px;
+	padding-left:		16px;
+	}
+
+div#Navigation{
+	float: 				right;
+	padding-left: 		0px;
+	padding-top: 		55px;
+	text-align: 		center;
+	vertical-align: 	middle;
+	white-space: 		nowrap;
+	width: 				520px;
+	height: 			65px;
+	}
+
+div#Navigationlinks			{line-height: 22px; height: 22px; margin: 0px; padding: 0px; vertical-align: middle; overflow:hidden;} 
+div#Navigationlinks a			{text-decoration: none; font-weight: bold; font-size: 12pt; padding-left: 20px; padding-right: 20px; padding-top:1px; padding-bottom:1px}
+div#Navigationlinks a:hover	{color:#F0F0F0; background-color:#c21c30}
+
+div#Inhalt{
+	text-align: 		left;
+	padding:			0;
+	border: 			none;
+	background-color: 	#F0F0F0;
+	font-size: 			12pt;
+	}
+div#Inhalt h1 			{color:#000000; font-weight:bold; font-size:16pt; padding:0px; margin:0px}
+div#Inhalt h2 			{color:#000000; font-weight:bold; font-size:12pt; padding:0px; margin:0px}
+div#Inhalt h3				{color:#000000; font-weight:normal; letter-spacing:0.4em; text-decoration: underline; font-size:12pt; padding:0px; padding-top:10px; padding-bottom:10px; margin:0px}
+div#Inhalt h4 			{color:rgb(203, 0, 38); font-weight:bold; font-size:30pt; padding:0px; margin:0px}
+div#Inhalt a				{font-size: 12pt; font-weight:normal; text-decoration: underline;}
+div#Inhalt a:hover		{text-decoration: none; color:#F0F0F0; background-color:#c21c30}
+
+div#Impressum{
+	float: 				left;
+	padding: 			0px;
+	text-align: 		right;
+	white-space: 		nowrap;
+	width: 				800px;
+	height: 			30px;
+	background-color: 	#F0F0F0;
+	}
+
+div#Impressum a			{text-decoration: none; font-weight:normal; font-size: 12pt; padding-left: 15px; padding-right: 15px; padding-top:1px; padding-bottom:1px}
+div#Impressum a:hover		{text-decoration: none; color:#F0F0F0; background-color:#c21c30}
+
+div#hiddenforum{			
+	position: 			absolute;
+	top:				0px;
+	left:				0px;
+	}
+
+
